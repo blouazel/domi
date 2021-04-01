@@ -1,0 +1,34 @@
+/* --- Import Components stylesheets --- */
+@import url("components/card_inspirations.css");
+@import url("components/card.map.css");
+@import url("components/card_services.css");
+@import url("components/container.css");
+@import url("components/image_presentation.css");
+@import url("components/baseline.css");
+@import url("components/banner.css");
+@import url("components/navbar.css");
+@import url("components/footer.css");
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.a {
+  text-decoration: none;
+  color: black;
+}
+
+h2, p {
+  font-family: 'Montserrat', sans-serif;
+}
+
+h2 {
+  font-weight: 100;
+}
+
+footer p {
+  font-size: 24px;
+}
+
+
